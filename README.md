@@ -1,4 +1,4 @@
-# ✨ Maida Martins ✨
+#  Maida Martins 
 
 🧠 Apaixonada por dados | 🎯 Foco em análise e banco de dados | 🛠️ Exploradora de tech por hobby
 
