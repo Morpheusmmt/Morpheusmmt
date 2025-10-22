@@ -13,7 +13,7 @@
 ## 👩‍💻 Sobre mim
 
 - Atualmente atuando na área de **Inteligência de Dados**, transformando consultas SQL em relatórios e planilhas para análise estratégica.
-- Responsável por **ajuste de estoque**, **controle de reposição** e envio de **relatórios de sell-out e estoque para fornecedores**.
+- Responsável por **ajuste de estoque**, **controle de reposição** e criação de **views para criação de relatórios em ferramentas como power bi**.
 - Experiência anterior na equipe de **Sistemas**, com foco na **administração do sistema RM da TOTVS**, execução de **consultas SQL** no Oracle e suporte técnico.
 - Curiosa e autodidata, gosto de explorar novas tecnologias por hobby e encontrar soluções para problemas reais.
 - Tenho um carinho especial por tudo que envolve **banco de dados**, automação e análise.
@@ -23,9 +23,9 @@
 ## 🧰 Tecnologias e Ferramentas
 
 
-- 💾 **Bancos de Dados**: SQL, Oracle, MySQL, MongoDB Atlas  
+- 💾 **Bancos de Dados**: SQL, Oracle, MySQL, MongoDB Atlas, PostgreSQL  
 - 📊 **Ferramentas de Análise**: Excel, Planilhas Google, Power BI (básico)  
-- 🌐 **Frontend & Backend**: HTML, CSS, JavaScript, React, Node.js  
+- 🌐 **Frontend & Backend**: HTML, CSS, JavaScript, React, Node.js, Nextjs  
 - 🧩 **Outros**: Firebase, Git & GitHub, DBeaver
 
 - 
