@@ -1,56 +1,72 @@
-#  Maida Martins 
+# 👩‍💻 Maida Martins
 
-🧠 Apaixonada por dados | 🎯 Foco em análise e banco de dados | 🛠️ Exploradora de tech por hobby
+**Analytics Engineering Intern | SQL Specialist | Python & Cloud Enthusiast**
 
-![SQL](https://img.shields.io/badge/SQL-Active-blue?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle-DB-red?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-Planilhas-green?style=flat-square)
-![React](https://img.shields.io/badge/React-Explorando-blue?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen?style=flat-square)
-
----
-
-## 👩‍💻 Sobre mim
-
-- Atualmente atuando na área de **Inteligência de Dados**, transformando consultas SQL em relatórios e planilhas para análise estratégica.
-- Responsável por **ajuste de estoque**, **controle de reposição** e criação de **views para criação de relatórios em ferramentas como power bi**.
-- Experiência anterior na equipe de **Sistemas**, com foco na **administração do sistema RM da TOTVS**, execução de **consultas SQL** no Oracle e suporte técnico.
-- Curiosa e autodidata, gosto de explorar novas tecnologias por hobby e encontrar soluções para problemas reais.
-- Tenho um carinho especial por tudo que envolve **banco de dados**, automação e análise.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
+Atualmente atuo na camada de **Analytics Engineering** no setor de varejo, onde sou responsável pelo "backend" da análise de dados. Meu foco é garantir que os dados cheguem estruturados, limpos e performáticos para a tomada de decisão.
 
-- 💾 **Bancos de Dados**: SQL, Oracle, MySQL, MongoDB Atlas, PostgreSQL  
-- 📊 **Ferramentas de Análise**: Excel, Planilhas Google, Power BI (básico)  
-- 🌐 **Frontend & Backend**: HTML, CSS, JavaScript, React, Node.js, Nextjs  
-- 🧩 **Outros**: Firebase, Git & GitHub, DBeaver
+- 🏢 **Experiência:** Crio Views otimizadas e consultas SQL complexas (Oracle/MySQL) para alimentar dashboards corporativos, focando em prevenção de ruptura de estoque e precificação.
+- 🎓 **Formação:** Estudante de Análise e Desenvolvimento de Sistemas (UNIFOR) e Técnica em Redes.
+- ☁️ **Cloud:** Egresso do programa AWS re/Start, com foco em arquitetura de nuvem.
+- 🛠️ **Hobby:** Transformar ambientes locais em laboratórios de Engenharia de Dados usando Linux e Docker.
 
-- 
+---
+
+## 🧰 Stack Tecnológica
+
+| Área | Tecnologias |
+|------|-------------|
+| **Engenharia de Dados** | Python (Pandas, Faker, Psycopg2), ETL, Data Warehousing |
+| **Bancos de Dados** | **Oracle PL/SQL** (Foco atual), PostgreSQL, MySQL, MongoDB |
+| **Infra & Cloud** | Linux (Ubuntu), Docker, AWS (EC2, S3, RDS) |
+| **Analytics & Viz** | Criação de Views, Modelagem Dimensional (Star Schema), Power BI |
+| **Ferramentas** | DBeaver, VS Code, Git/GitHub |
+
 ---
 
 ## 🧪 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
+### 🛒 [Nexus Retail Analytics (Ver Repositório)](https://github.com/maida-martins/nexus-retail-analytics)
+*Projeto End-to-End de Engenharia de Dados simulando um ambiente de varejo real.*
+
+* **O Desafio:** Construir um pipeline de dados completo saindo do zero no Linux.
+* **O que fiz:**
+    * Provisionamento de infraestrutura de banco de dados com **Docker**.
+    * Desenvolvimento de script **Python** para geração de massa de dados realista (ETL).
+    * Modelagem dimensional (**Star Schema**) em **PostgreSQL**.
+    * Conexão de Dashboard **Power BI** via rede local para análise de KPIs.
+* **Tech:** Python, Docker, SQL, Power BI, Linux.
+
+---
+
+## 📂 Outros Projetos (Web & Tools)
+
+Embora meu foco hoje seja Dados, tenho experiência prévia com desenvolvimento web:
+
+| Projeto | Descrição | Stack |
 |--------|-----------|-------------|
-| 🎯 **Pomodoro App** | Temporizador de foco e produtividade com ciclos configuráveis | React + TypeScript |
-| 🏡 **Calculadora de Hipoteca** | Simulador de financiamento com cálculo de parcelas e juros | HTML, CSS, JavaScript |
-| 🎅 **Amigo Secreto** | Sorteio com regras personalizadas e sincronização entre dispositivos | Node.js, JavaScript |
-| 🧾 **Portfólio Pessoal** | Meu site pessoal com seções de projetos, contato e sobre mim | React, Vite, TypeScript, Tailwind CSS |
+| 🎯 **Pomodoro App** | Temporizador de foco e produtividade | React + TypeScript |
+| 🧾 **Portfólio Pessoal** | Site pessoal com seções de contato | React, Vite |
 
 ---
 
-## 🤝 Vamos conversar?
+## 🤝 Contato
 
-- 📫 **Email:** `1maida.martins@email.com` 
-- 💼 [LinkedIn](http://linkedin.com/in/maida-martins23)
-- 🌐 [Portfólio Web](https://meu-portfolio-nine-virid.vercel.app)
+- 📫 **Email:** `1maida.martins@gmail.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/maida-martins23)
 
 ---
-
 <p align="center">
-  Obrigada por visitar meu perfil! 💚
+  <i>"Transformando dados brutos em inteligência de negócio." 🚀</i>
 </p>
-
